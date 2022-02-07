@@ -1,0 +1,8 @@
+extra small -> 320-575
+
+small -> 576-767
+
+mediam-> 768-991
+large-> 992-1199
+
+extra large->1200-1399
